@@ -1,3 +1,9 @@
+# Notes 👇👇
+
+This project has been moved to [xlite-dev/ffpa-attn-mma](https://github.com/xlite-dev/ffpa-attn-mma). Please check [xlite-dev/ffpa-attn-mma](https://github.com/xlite-dev/ffpa-attn-mma) for latest updates! 👏👋
+
+---
+
 <div align="center">
   <p align="center">
     <h2>🤖FFPA(Split-D): Yet another Faster Flash Prefill Attention with O(1)⚡️GPU SRAM complexity for large headdim🐑</h2>
